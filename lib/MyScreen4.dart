@@ -41,6 +41,12 @@ class MyScreen4 extends StatelessWidget {
               Icon(Icons.motorcycle, size: 48),
             ],
           ),
+          SizedBox(height: 50,),
+          Row(
+            children: <Widget>[
+              Icon(Icons.motorcycle, size: 48),
+            ],
+          ),
         ],
       ),
     );
